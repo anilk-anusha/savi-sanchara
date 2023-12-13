@@ -39,7 +39,7 @@ Project Status: In Progress and Evolving
 
 ## Documentation
 
-UX Case Study PDF:
+UX Case Study PDF: [View PDF](https://github.com/anilk-anusha/savi-sanchara/tree/main/documentation )
 
 ## Screenshots
 
