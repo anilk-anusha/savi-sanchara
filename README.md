@@ -4,6 +4,8 @@
 
 Savi Sanchara is an innovative recipe generator and culinary platform designed to assist individuals in creating delicious meals using the ingredients available in their pantries built using different tech slacks adhering to UX guidelines.
 
+
+
 ## Table of Contents
 
 - [General Info](#general-info)
@@ -12,6 +14,7 @@ Savi Sanchara is an innovative recipe generator and culinary platform designed t
 - [Screenshots](#screenshots)
 - [Status](#status)
 - [Documentation](#documentation)
+- [Screenshots](#screenshots)
 
 ## General Info
 
@@ -38,11 +41,15 @@ Project Status: In Progress and Evolving
 
 UX Case Study PDF: 
 
+## Screenshots
 
+#### Figma Prototype Screenshots:
 
-
-
-
+<img width="681" alt="image" src="https://github.com/anilk-anusha/savi-sanchara/assets/130001836/ad9a0563-f308-4500-be74-ec5f6df35e5d">
+<img width="682" alt="image" src="https://github.com/anilk-anusha/savi-sanchara/assets/130001836/1d02792c-9e38-44b8-8359-6040e5a0e28a">
+<img width="682" alt="image" src="https://github.com/anilk-anusha/savi-sanchara/assets/130001836/8f516539-af64-41cb-a66c-2b995c3ee12f">
+<img width="683" alt="image" src="https://github.com/anilk-anusha/savi-sanchara/assets/130001836/0975d73b-4505-478e-be40-f928ff87d18e">
+<img width="689" alt="image" src="https://github.com/anilk-anusha/savi-sanchara/assets/130001836/45220826-1140-423c-9553-6efa257543c8">
 
 
  
