@@ -27,6 +27,13 @@ Savi Sanchara is a web application developed to be a user-friendly recipe genera
 
 The design process began with extensive research, analyzing similar platforms, and compiling essential features. Wireframes and mockups were carefully crafted, including UI/UX strategies. The UI was organized to guide users smoothly through the application, highlighting the concept of full-screen scrolling. A style guide that included color palettes, typography, and UI elements made sure that the user experience was consistent and engaging.
 
+#### Figma Prototype Link:
+[Savi Sanchara Prototype](https://www.figma.com/file/r6FAbWlRk2caSNJCu88Z7A/SaviSancharaPrototype?type=design&node-id=0-1&mode=design)
+
+#### UX Case Study PDF: 
+[UX Case Study](https://github.com/anilk-anusha/savi-sanchara/tree/main/documentation )
+
+
 ## Development
 
 #### Status: In Progress
